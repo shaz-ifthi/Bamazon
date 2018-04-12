@@ -1,0 +1,20 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "Require": "^1.1.2",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "require": "^2.4.20",
+    "sql": "^0.78.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
